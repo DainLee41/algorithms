@@ -1,0 +1,8 @@
+{
+  "files.associations": {
+    "vector": "cpp",
+    "ostream": "cpp"
+  },
+  "editor.fontFamily": "구름 산스 코드 400",
+  "C_Cpp.errorSquiggles": "disabled"
+}
